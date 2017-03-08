@@ -354,7 +354,7 @@ To share a course or program certificate on LinkedIn, follow these steps.
    * For **Certification authority**, enter ``edX``.
    * For **License number**, enter the URL for your certificate. For more
      information, see :ref:`Share a Web Certificate URL`.
-   * (Optional) Enable **This certification does not expire**.
+   * (Optional) Select **This certification does not expire**.
    * (Optional) For **Time period**, enter the month and year when you received your certificate.
 
 #. Select **Save**.
